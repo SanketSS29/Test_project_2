@@ -50,7 +50,6 @@ public class LoginTestVerification extends BaseClass
 			String ScreenshotPath = Screenshots.CaptureScreenshot();
 			test.addScreenCaptureFromPath(ScreenshotPath);
 		}
-		System.out.println("verification completed");
 	}
 	
 	
